@@ -1,0 +1,10 @@
+C:\Users\Abito\source\repos\bidangdatarlibrary\bidangdatarlibrary\bin\Debug\bidangdatarlibrary.exe.config
+C:\Users\Abito\source\repos\bidangdatarlibrary\bidangdatarlibrary\bin\Debug\bidangdatarlibrary.exe
+C:\Users\Abito\source\repos\bidangdatarlibrary\bidangdatarlibrary\bin\Debug\bidangdatarlibrary.pdb
+C:\Users\Abito\source\repos\bidangdatarlibrary\bidangdatarlibrary\obj\Debug\bidangdatarlibrary.csproj.CoreCompileInputs.cache
+C:\Users\Abito\source\repos\bidangdatarlibrary\bidangdatarlibrary\obj\Debug\bidangdatarlibrary.exe
+C:\Users\Abito\source\repos\bidangdatarlibrary\bidangdatarlibrary\obj\Debug\bidangdatarlibrary.pdb
+C:\Users\Abito\source\repos\bidangdatarlibrary\bidangdatarlibrary\obj\Debug\bidangdatarlibrary.csprojAssemblyReference.cache
+C:\Users\Abito\source\repos\bidangdatarlibrary\bidangdatarlibrary\bin\Debug\bidangdatar.dll
+C:\Users\Abito\source\repos\bidangdatarlibrary\bidangdatarlibrary\bin\Debug\bidangdatar.pdb
+C:\Users\Abito\source\repos\bidangdatarlibrary\bidangdatarlibrary\obj\Debug\bidangdatarlibrary.csproj.CopyComplete

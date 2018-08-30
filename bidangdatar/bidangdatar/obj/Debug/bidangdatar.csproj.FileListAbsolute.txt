@@ -1,0 +1,6 @@
+C:\Users\Abito\source\repos\bidangdatar\bidangdatar\obj\Debug\bidangdatar.csproj.CoreCompileInputs.cache
+C:\Users\Abito\source\repos\bidangdatar\bidangdatar\bin\Debug\bidangdatar.dll
+C:\Users\Abito\source\repos\bidangdatar\bidangdatar\bin\Debug\bidangdatar.pdb
+C:\Users\Abito\source\repos\bidangdatar\bidangdatar\obj\Debug\bidangdatar.dll
+C:\Users\Abito\source\repos\bidangdatar\bidangdatar\obj\Debug\bidangdatar.pdb
+C:\Users\Abito\source\repos\bidangdatar\bidangdatar\obj\Debug\bidangdatar.csprojAssemblyReference.cache
